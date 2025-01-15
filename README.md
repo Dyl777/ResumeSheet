@@ -100,9 +100,9 @@ const technicalSkills = {
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dy1777&show_icons=true&theme=radical)](https://github.com/Dy1777)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dyl777&show_icons=true&theme=radical)](https://github.com/Dyl777)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1777&layout=compact&theme=radical)](https://github.com/Dy1777)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyl777&layout=compact&theme=radical)](https://github.com/Dyl777)
 
 </div>
 
