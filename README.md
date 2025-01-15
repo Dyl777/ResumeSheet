@@ -39,7 +39,7 @@ Data Engineer:
   tech_stack: ["AWS", "TiDBCloud", "PostgreSQL"]
   focus: "Fraud detection and anomaly detection systems"
 
-IoT Developer:
+IoT Intern:
   company: "Nervtek"
   duration: "June 2023 - "
   skills: ["Arduino Cloud", "ESP32", "C Programming"]
